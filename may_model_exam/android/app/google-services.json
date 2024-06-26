@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575672734112",
+    "project_id": "exam-aea80",
+    "storage_bucket": "exam-aea80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575672734112:android:c795e3c91ea58d5924d4c5",
+        "android_client_info": {
+          "package_name": "com.example.may_model_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMFhStMiGn9WdiXO3P_x6YLEuFjBmuJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
